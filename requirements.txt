@@ -1,0 +1,7 @@
+pandas
+matplotlib
+seaborn
+sklearn
+skl2onnx
+onnx
+onnxruntime
