@@ -1,0 +1,23 @@
+artifact_path: file:///e:/Work/ML/Context-Aware-Widget-Recommendation/notebooks/mlruns/1/models/m-48e53ba978224420a2cbbd5661acf352/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.skops
+    predict_fn: predict
+    python_version: 3.10.11
+  sklearn:
+    code: null
+    pickled_model: model.skops
+    serialization_format: skops
+    sklearn_version: 1.7.2
+    skops_trusted_types: null
+mlflow_version: 3.14.0
+model_id: m-48e53ba978224420a2cbbd5661acf352
+model_size_bytes: 4387338
+model_uuid: m-48e53ba978224420a2cbbd5661acf352
+prompts: null
+run_id: 6c374bab49d64a4a8bc60befb7a1002a
+utc_time_created: '2026-06-27 08:16:51.155033'

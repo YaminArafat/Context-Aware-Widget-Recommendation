@@ -1,7 +1,7 @@
 pandas
 matplotlib
 seaborn
-sklearn
+scikit-learn
 skl2onnx
 onnx
 onnxruntime
